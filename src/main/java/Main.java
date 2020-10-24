@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hello Bogdan");
 
         System.out.println("linie noua");
+
+        System.out.println("new stash line");
     }
 }
