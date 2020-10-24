@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello Bog");
 
         System.out.println("Hello Bogdan");
+
+        System.out.println("linie noua");
     }
 }
